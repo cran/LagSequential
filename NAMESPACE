@@ -1,0 +1,7 @@
+export(sequential)
+export(seqgroups)
+export(bidirectional)
+export(twocells)
+export(paradom)
+export(nonparadom)
+importFrom("stats", "pchisq", "pnorm", "runif", "qnorm")
